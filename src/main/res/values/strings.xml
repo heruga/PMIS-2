@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bOOkabu</string>
+    <string name="info">App for reading books, look for there description and so on </string>
+    <string name="version">Version 0.1</string>
+    <string name="email">ebooks.app@gmail.com</string>
+    <string name="FAQ">Need more help?</string>
+    <string name="rate">Please</string>
+    <string name="analytics">Its can help us to work better</string>
+    <string name="Home">Home</string>
+    <string name="About">About</string>
+</resources>
